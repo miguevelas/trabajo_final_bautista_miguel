@@ -1,0 +1,47 @@
+.imgProductos{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+    box-shadow: 6px 2px 7px 0px rgba(0,0,0,0.42);
+    border-radius: 5px;
+}
+
+.colorBoton{
+    color: white;
+    background-color: rgb(180, 132, 60);
+}
+
+.colorBoton:hover{
+    background-color: rgb(162, 106, 42);
+    color: white;
+}
+
+.divArticle{
+    background-color: rgb(151, 230, 180);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 0.3rem;
+}
+
+.imgPortadaPollo{
+    margin: 1rem;
+    width:350px;
+    height: 250px;
+    box-shadow: 6px 2px 7px 0px rgba(0,0,0,0.42);
+    border-radius: 5px;
+}
+
+body{
+    background-color: rgb(175, 195, 163);
+}
+
+.pedido{
+    margin: 40px;
+}
